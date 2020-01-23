@@ -43,6 +43,10 @@ body {
   text-align: center;
 }
 
+.image {
+  padding: 1rem;
+}
+
 .img-flex {
   width: 100%;
   display: block;
